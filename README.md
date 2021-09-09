@@ -4,6 +4,8 @@ OPENCV :https://docs.opencv.org/master/ <br>
 # TUTORIAL
 TENSORFLOW:https://www.tensorflow.org/tutorials<br>
 OPENCV:https://www.geeksforgeeks.org/opencv-python-tutorial/ <br>
+# MODEL
+![images (1)](https://user-images.githubusercontent.com/47810389/132733276-a7888a78-835f-491a-9cd4-d0a4ce525ebe.png)
 # STEP BY STEP
 1.get the data from csv and convert to array<br>
 2.split the train test data<br>
